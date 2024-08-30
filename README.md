@@ -4,6 +4,9 @@
 [![ZagBaz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZagBaz&layout=compact&theme=buefy)](https://github.com/ZagBaz)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZagBaz&layout=compact&theme=buefy)](https://github.com/ZagBaz)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zagbaz&layout=compact&theme=buefy" />
+</p>
 <!--
 **ZagBaZ/ZagBaZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
