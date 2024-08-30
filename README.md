@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-<!--
-**ZagBaZ/ZagBaZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 [![ZagBaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZagBaz&count_private=true&show_icons=true&theme=buefy)](https://github.com/ZagBaz)
 [![ZagBaz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZagBaz&layout=compact&theme=buefy)](https://github.com/ZagBaz)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZagBaz&layout=compact&theme=buefy)](https://github.com/ZagBaz)
 
+<!--
+**ZagBaZ/ZagBaZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+-->
 
 Here are some ideas to get you started:
 
